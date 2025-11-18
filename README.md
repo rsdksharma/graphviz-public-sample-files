@@ -1,1 +1,1 @@
-# graphviz-public-sample-files
+digraph { a -> b; b -> c; a -> d; d -> e }
